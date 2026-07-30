@@ -3,6 +3,6 @@
 * Hello
 * Again
 
-## Great repository
+## Kenny's Project
 
-This project has great features, blah blah.
+This project has great features, it will be a great product.
