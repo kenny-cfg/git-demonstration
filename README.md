@@ -2,3 +2,7 @@
 
 * Hello
 * Again
+
+## Great repository
+
+This project has great features, blah blah.
